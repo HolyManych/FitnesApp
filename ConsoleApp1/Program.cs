@@ -18,6 +18,7 @@ namespace ConsoleApp1
             var training = new Training();
 
             //var ex = exercieses.GetExerciseRepeatedBlanc(exInfo);
+
             //ex.SetEx(10, 60);
             //training.AddEx(ex);
             //ex.SetEx(10, 70);
