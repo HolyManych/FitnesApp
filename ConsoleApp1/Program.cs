@@ -18,6 +18,8 @@ namespace ConsoleApp1
             var training = new Training();
 
             //var ex = exercieses.GetExerciseRepeatedBlanc(exInfo);
+            //trying to pull request;
+            //trying to pull request2;
 
             //ex.SetEx(10, 60);
             //training.AddEx(ex);
